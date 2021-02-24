@@ -10,6 +10,11 @@ namespace Practica_2
     {
         static void Main(string[] args)
         {
+
+            //Mostrar hello world en consola.
+            System.Console.WriteLine("Hola Mundo");
+            Console.ReadLine();
+
         }
     }
 }
