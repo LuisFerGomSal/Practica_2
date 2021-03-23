@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operaciones", "Operaciones\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burguer", "Burguer\Burguer.csproj", "{709A9DFF-8B1A-4DC5-93DB-2E7F6784E3B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaParaGatos", "TiendaParaGatos\TiendaParaGatos.csproj", "{FAA71943-BB95-40C4-BE32-082281C1AC59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{709A9DFF-8B1A-4DC5-93DB-2E7F6784E3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{709A9DFF-8B1A-4DC5-93DB-2E7F6784E3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{709A9DFF-8B1A-4DC5-93DB-2E7F6784E3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA71943-BB95-40C4-BE32-082281C1AC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA71943-BB95-40C4-BE32-082281C1AC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA71943-BB95-40C4-BE32-082281C1AC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA71943-BB95-40C4-BE32-082281C1AC59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
